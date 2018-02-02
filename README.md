@@ -4,3 +4,4 @@ Member of the group are expected to clone this repository after getting access t
 Write the serial number then your name and github username
 
 1. Emeka Achugo		@achugo
+2. Akunna Chisom 	@matata4u
