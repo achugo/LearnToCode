@@ -4,3 +4,4 @@ Member of the group are expected to clone this repository after getting access t
 Write the serial number then your name
 
 1. Achugo Emeka	
+2. Esuruoso Ayodeji
