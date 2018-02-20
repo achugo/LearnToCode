@@ -11,3 +11,4 @@ Write the serial number then your name and github username
 5. Esuruoso Ayodeji	@Esuris
 6. Nwachukwu Prince @nnahotic
 >>>>>>> origin/Learntocode
+7. Dotun Aremu @superdalton
